@@ -1,0 +1,7 @@
+{
+    "debug": true,
+    "http": {
+        "enabled": true,
+        "listen": "0.0.0.0:9096"
+    }
+}
