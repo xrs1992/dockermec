@@ -2,7 +2,7 @@ package http
 
 import (
 	"encoding/json"
-	"github.com/kubeexcutor/g"
+	"github.com/dockermec/g"
 	"log"
 	"net/http"
 )
